@@ -1,4 +1,4 @@
-# MorphMan
+# MorbMan
 
 <a title="Rate on AnkiWeb" href="https://ankiweb.net/shared/info/900801631"><img src="https://glutanimate.com/logos/ankiweb-rate.svg"></a>
 <br>
