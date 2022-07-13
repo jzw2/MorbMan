@@ -2,9 +2,7 @@
 
 <a title="Rate on AnkiWeb" href="https://ankiweb.net/shared/info/900801631"><img src="https://glutanimate.com/logos/ankiweb-rate.svg"></a>
 <br>
-MorphMan is an Anki addon that tracks what words you know, and utilizes that information to optimally reorder language cards. This
-**greatly** optimizes your learning queue, as you will only see sentences with exactly one unknown word (see
-[i+1 principle](https://massimmersionapproach.com/table-of-contents/anki/morphman/#glossary) for a more detailed explanation).
+MorphMan is an Anki addon that will teach you *one morbillion words*. 
 
 # Installation (Anki 2.1)
 
